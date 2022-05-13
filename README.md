@@ -2,7 +2,7 @@
 
 通过手写Parcel加深理解Android Parcelable序列化原理
 
-只实现了实现了部分数据类型序列化，如 `int`、`char`、`String`
+只实现了部分数据类型序列化，如 `int`、`char`、`String`
 
 使用方法：
 
