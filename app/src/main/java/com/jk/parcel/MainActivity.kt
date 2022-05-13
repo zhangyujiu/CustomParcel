@@ -35,12 +35,4 @@ class MainActivity : AppCompatActivity() {
 
         Log.e("jack", binding.sampleText.text.toString())
     }
-
-
-    companion object {
-
-        init {
-            System.loadLibrary("parcel")
-        }
-    }
 }
